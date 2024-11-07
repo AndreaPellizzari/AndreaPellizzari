@@ -6,7 +6,7 @@
 <h4 align='left'>About me</h4>
 <div>
   <div align='justify'>
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/leetcode.svg" alt="LeetCode Icon" />  andre_pelli81
+      <img align='center' width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/leetcode.svg" />  andre_pelli81
   </div>
   <div align='justify'>
     <img align='center' width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />  andrea.pellizzari19024@gmail.com
