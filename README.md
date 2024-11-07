@@ -1,5 +1,5 @@
 # Hi there, I'm Andrea 👋
-### I am a Bachelor Student in Computer Science at Università degli studi di Verona
+### I am 20 and study Computer Science at Università degli studi di Verona
 
 
 <!--
