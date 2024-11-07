@@ -1,14 +1,20 @@
 <h1 align='center'>Hi there, I'm Andrea 👋</h1>
 <h3 align='center'>I am 20 and study Computer Science at Università degli studi di Verona</h3>
 
-<!--
-<h4 align='left'>Contact Informations</h4>
+
+
+<h4 align='left'>About me</h4>
 <div>
+  <div align='justify'>
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/leetcode.svg" alt="LeetCode Icon" />  andre_pelli81
+  </div>
   <div align='justify'>
     <img align='center' width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" />  andrea.pellizzari19024@gmail.com
   </div>
+  <div align='justify'>
+    <img align='center' width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/spotify.svg"" />  andr324
+  </div>
 </div>
--->
 
 <!--
 **AndreaPellizzari/AndreaPellizzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
