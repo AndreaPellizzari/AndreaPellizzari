@@ -1,7 +1,15 @@
 <h1> Hi there, I'm Andrea 👋 </h1>
-### I am 20 and study Computer Science at Università degli studi di Verona
+<h3> I am 20 and study Computer Science at Università degli studi di Verona </h3>
 
 
+h1::before {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 0;
+    height: 0;
+    padding-top: 50%;
+}
 <!--
 **AndreaPellizzari/AndreaPellizzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
