@@ -1,5 +1,5 @@
-<div> # Hi there, I'm Andrea </div>
-<center> ### I am a Bachelor Student in Computer Science at Università degli studi di Verona </center>
+# Hi there, I'm Andrea 👋
+### I am a Bachelor Student in Computer Science at Università degli studi di Verona
 
 
 <!--
