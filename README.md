@@ -1,4 +1,6 @@
-## Hi there 👋
+<center># Hi there, I'm Andrea</center>
+<center>###I am a Bachelor Student in Computer Science at Università degli studi di Verona</center>
+
 
 <!--
 **AndreaPellizzari/AndreaPellizzari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
