@@ -14,6 +14,9 @@
   <div align='justify'>
     <img align='center' width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/spotify.svg"" />  andr324
   </div>
+  <div align='justify'>
+    <img align="center" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.24.0/icons/linkedin.svg" />  Andrea Pellizzari
+  </div>
 </div>
 
 <!--
