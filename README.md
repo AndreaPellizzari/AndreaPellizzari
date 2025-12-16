@@ -1,5 +1,5 @@
 <h1 align='center'>Hi there, I'm Andrea 👋</h1>
-<h3 align='center'>I am 21 and study Computer Science at Università degli studi di Verona</h3>
+<h3 align='center'>I am a 21-year-old Computer Science student.</h3>
 
 
 
